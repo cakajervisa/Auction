@@ -63,10 +63,10 @@ useEffect(()=>fetchProducts(),[]);
     products.map((product,index)=>{
       return(
         <tr key={index}>
-          <td>{product.prodctname}</td>
+          <td>{product.productname}</td>
            <td>{product.seller}</td>
             <td>${product.topbid }</td>
-             <td>{product. timeremaning}</td>
+             <td>{product. timeremaining}</td>
           
           <td style={{ width: '10px', whiteSpace: 'nowrap' }}>
 
