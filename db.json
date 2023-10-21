@@ -1,94 +1,23 @@
 {
-    "products": [
-        {
-            "productname": "Product 1",
-            "description": "Description for Product 1",
-            "startingbid": 100,
-            "enddate": "2023-10-31T12:00:00",
-            "seller": "Seller A",
-            "topbid": 120,
-            "timeremaining": "2 days 4 hours"
-        },
-        {
-            "productname": "Product 2",
-            "description": "Description for Product 2",
-            "startingbid": 75,
-            "enddate": "2023-11-15T14:30:00",
-            "seller": "Seller B",
-            "topbid": 80,
-            "timeremaining": "20 hours 15 minutes"
-        },
-        {
-            "productname": "Product 3",
-            "description": "Description for Product 3",
-            "startingbid": 50,
-            "enddate": "2023-11-20T10:00:00",
-            "seller": "Seller C",
-            "topbid": 55,
-            "timeremaining": "5 days 8 hours"
-        },
-        {
-            "productname": "Product 4",
-            "description": "Description for Product 4",
-            "startingbid": 120,
-            "enddate": "2023-12-05T19:45:00",
-            "seller": "Seller D",
-            "topbid": 130,
-            "timeremaining": "15 hours 30 minutes"
-        },
-        {
-            "productname": "Product 5",
-            "description": "Description for Product 5",
-            "startingbid": 80,
-            "enddate": "2023-12-10T08:20:00",
-            "seller": "Seller E",
-            "topbid": 85,
-            "timeremaining": "3 days 12 hours"
-        },
-        {
-            "productname": "Product 6",
-            "description": "Description for Product 6",
-            "startingbid": 60,
-            "enddate": "2023-12-25T16:00:00",
-            "seller": "Seller F",
-            "topbid": 65,
-            "timeremaining": "10 days 6 hours"
-        },
-        {
-            "productname": "Product 7",
-            "description": "Description for Product 7",
-            "startingbid": 90,
-            "enddate": "2024-01-10T21:30:00",
-            "seller": "Seller G",
-            "topbid": 95,
-            "timeremaining": "4 days 18 hours"
-        },
-        {
-            "productname": "Product 8",
-            "description": "Description for Product 8",
-            "startingbid": 150,
-            "enddate": "2024-01-20T11:15:00",
-            "seller": "Seller H",
-            "topbid": 155,
-            "timeremaining": "1 day 2 hours"
-        },
-        {
-            "productname": "Product 9",
-            "description": "Description for Product 9",
-            "startingbid": 110,
-            "enddate": "2024-02-05T14:00:00",
-            "seller": "Seller I",
-            "topbid": 115,
-            "timeremaining": "7 days 22 hours"
-        },
-        {
-            "productname": "Product 10",
-            "description": "Description for Product 10",
-            "startingbid": 70,
-            "enddate": "2024-02-15T17:45:00",
-            "seller": "Seller J",
-            "topbid": 75,
-            "timeremaining": "2 days 15 hours"
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "productname": "Product 1",
+      "description": "Description for Product 1",
+      "startingbid": 100,
+      "enddate": "2023-10-31T12:00:00",
+      "seller": "Seller A",
+      "topbid": 120,
+      "timeremaining": "2 days 4 hours"
+    },
+    {
+      "productname": "WWWW",
+      "id": 2,
+      "seller": "WWW",
+      "topbid": "777",
+      "timeremaining": "WW",
+      "description": "WWWWWWWWWWWWWWWWWW",
+      "createdAt": "2023-10-20"
+    }
+  ]
 }
